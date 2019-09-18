@@ -1,0 +1,39 @@
+* #
+* .iml
+* .ipr
+* .iws
+* .jar
+* .sw ?
+* ~
+. # *
+. * .md.html
+.DS_Store
+.classpath
+.factorypath
+.gradle
+.idéia
+.metadata
+.projeto
+.recomendadores
+.configurações
+.springBeans
+/ build
+/ code
+MANIFEST.MF
+_site /
+activemq-data
+bin
+Construir
+build.log
+dependência-reduzida-pom.xml
+dump.rdb
+interpolado * .xml
+lib /
+manifest.yml
+anuladob. *
+alvo
+logs de transação
+.flattened-pom.xml
+secrets.yml
+.gradletasknamecache
+.sts4-cache
