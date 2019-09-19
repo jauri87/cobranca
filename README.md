@@ -1,2 +1,2 @@
 # cobranca
-Estudo de spring boot 
+Estudo de spring boot com thymeleaf
